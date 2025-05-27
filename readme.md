@@ -1,6 +1,11 @@
 without gpu only run this app using python 3.8 
 updated tensorflow required of gpu driver setup.
 
+tested on 
+-Ubuntu 22.04.5 LTS
+-os type : 64-bit
+-gnome version : 42.9
+-windowing system: Wayland
 
 How to install Python 3.8 on newer Ubuntu versions
 Step 1: Add the deadsnakes PPA
