@@ -48,9 +48,15 @@ model
 	labels.txt
 
 
-step 2: from starterkit
+create: from starterkit
 pip install tensorflow==2.4.0 keras==2.4.3 pillow numpy
 python your_prediction_script.py
+
+install: from requirements
+
+pip install -r requirements.txt
+
+
 
 
 
